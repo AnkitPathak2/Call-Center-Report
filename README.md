@@ -83,7 +83,7 @@ Provides customer-level revenue contribution and representative-wise performance
 
 ## 📸 Dashboard Preview
 
-![Call Center Dashboard](Screenshots/dashboard.png)
+![Call Center Dashboard](https://github.com/AnkitPathak2/Call-Center-Report/blob/main/Screenshot.png)
 
 🔗 LinkedIn: https://www.linkedin.com/in/ankit-pathak22
 
